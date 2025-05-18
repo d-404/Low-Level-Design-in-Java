@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# project based files
+.idea/
+*.iml
+*.ipr
+*.iws
